@@ -1,0 +1,8 @@
+1、压缩包里面的库文件Adafruit_SSD1306和Adafruit_GFX_Library解压后放在C:\Program Files (x86)\Arduino\libraries    具体看你Arduino  安装位置
+2、获取天气数据和API网址：https://openweathermap.org/city
+注意的是在注册  获取验证码的时候   需要翻墙   有需要的话可以联系我   qq邮箱：1679608656@qq.com
+3、Arduino版本1.8.9（测试通过）
+4、ArduinoJson库版本必须5点几  
+
+
+暂时需要注意的地方就想到这么多   有问题关注私聊我就行   油管机器猫 bilibili UID:16872024         2019.08.21
